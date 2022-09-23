@@ -1,0 +1,23 @@
+Registers values in 1151:
+RAX:555555555149	RBX:0
+RCX:555555557dc0	RDX:7fffffffe328
+RSI:7fffffffe318	RDI:1
+RBP:7fffffffe200	RSP:7fffffffe200
+RCX:555555557dc0	RIP:555555555152
+orig_rax:ffffffffffffffff
+
+Registers values in 1151:
+RAX:555555555149	RBX:0
+RCX:555555557dc0	RDX:7fffffffe328
+RSI:7fffffffe318	RDI:1
+RBP:7fffffffe200	RSP:7fffffffe200
+RCX:555555557dc0	RIP:555555555152
+orig_rax:ffffffffffffffff
+
+Registers values in 1158:
+RAX:4	RBX:fbad2084
+RCX:0	RDX:7fffffffe120
+RSI:25	RDI:55556004
+RBP:7ffff7f9d780	RSP:7fffffffdba8
+RCX:0	RIP:7ffff7e3d4e7
+orig_rax:ffffffffffffffff
